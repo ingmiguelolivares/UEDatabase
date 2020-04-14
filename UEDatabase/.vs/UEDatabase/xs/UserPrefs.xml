@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{81EF592E-5409-77AF-546C-6B543A318B4F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/opendB.cs">
+    <Files>
+      <File FileName="Assets/scripts/opendB.cs" Line="91" Column="2" />
+      <File FileName="Assets/scripts/dbAccess.cs" Line="169" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
