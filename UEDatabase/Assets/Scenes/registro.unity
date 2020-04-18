@@ -337,8 +337,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 163436788}
   m_TextComponent: {fileID: 1423023102}
   m_Placeholder: {fileID: 165270849}
-  m_ContentType: 0
-  m_InputType: 0
+  m_ContentType: 7
+  m_InputType: 2
   m_AsteriskChar: 42
   m_KeyboardType: 0
   m_LineType: 0
@@ -773,7 +773,7 @@ MonoBehaviour:
     m_HighlightedTrigger: Highlighted
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 656014050}
   m_OnClick:
     m_PersistentCalls:
