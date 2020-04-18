@@ -61,7 +61,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scripts\dbAccess.cs" />
+    <Compile Include="Assets\scripts\DBManager.cs" />
+    <Compile Include="Assets\scripts\dBselector.cs" />
+    <Compile Include="Assets\scripts\game.cs" />
+    <Compile Include="Assets\scripts\login.cs" />
+    <Compile Include="Assets\scripts\Mainmenu.cs" />
     <Compile Include="Assets\scripts\opendB.cs" />
+    <Compile Include="Assets\scripts\registro.cs" />
     <None Include="Assets\Images\png\README.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/miguelolivares/Documents/GitHub/UEDatabase/UEDatabase/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
